@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
- - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Active Directory Lab](https://github.com/TheoVerse1/azure-cybersecurity-labs)
 
 
 <h2>  Certfications</h2>
 
 
 
-https://cp.certmetrics.com/cisco/en/public/verify/credential/8fc90762a15e4bc7bcbb221d72415f23
+- [Cisco CCNA Cyber Security](https://cp.certmetrics.com/cisco/en/public/verify/credential/8fc90762a15e4bc7bcbb221d72415f23)
 
 <h2> 🤳 Connect with me:</h2>
 
