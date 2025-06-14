@@ -5,11 +5,11 @@
  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 <h2>  Certfications</h2>
+
+
+
+https://cp.certmetrics.com/cisco/en/public/verify/credential/8fc90762a15e4bc7bcbb221d72415f23
 
 <h2> 🤳 Connect with me:</h2>
 
