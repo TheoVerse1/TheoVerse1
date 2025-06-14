@@ -18,7 +18,7 @@ https://cp.certmetrics.com/cisco/en/public/verify/credential/8fc90762a15e4bc7bcb
 
 
 
-[linkedin]: www.linkedin.com/in/thiophelus-daniel-052a775a
+[linkedin]: https://www.linkedin.com/in/thiophelus-daniel-052a775a
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
